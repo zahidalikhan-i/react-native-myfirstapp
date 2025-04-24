@@ -8,6 +8,7 @@ yarn-error.log*
 expo-debug.log
 
 # React Native
+android/
 android/.gradle
 android/app/.cxx
 android/app/build/
